@@ -1,7 +1,5 @@
 
-Media queries grid, Practice Scaffold
-
-
+Media queries grid 
 
 ## Installation
 This is no installatin required.
